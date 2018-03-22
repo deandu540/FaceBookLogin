@@ -15,6 +15,6 @@ reference:
 
 1. https://www.tonylin.idv.tw/dokuwiki/doku.php/facebook:java:serversideauth
 
-2.https://javapapers.com/java/java-facebook-login-with-oauth-authentication/
+2. https://javapapers.com/java/java-facebook-login-with-oauth-authentication/
 
 
